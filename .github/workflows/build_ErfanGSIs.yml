@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/20.4.27/miui_MIMIX3_20.4.27_8f7879221b_10.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://huang2728.sharepoint.com/sites/hk43/_layouts/15/download.aspx?UniqueId=f7b757b9-eed7-437b-99ee-6cd8632f05c6&Translate=false&tempauth=v1.eyJzaXRlaWQiOiI0MTUyZmI0Zi1mYWU5LTRhZWYtYmU3My1lODFjZjY1YzI1ZDQiLCJhcHBfZGlzcGxheW5hbWUiOiJjbG91ZHJldmUiLCJhcHBpZCI6IjljMjAwMzlhLWQ1ZGUtNDU0OC1hZTgwLTU2NTVjZmVkZDQzZSIsImF1ZCI6IjAwMDAwMDAzLTAwMDAtMGZmMS1jZTAwLTAwMDAwMDAwMDAwMC9odWFuZzI3Mjguc2hhcmVwb2ludC5jb21AZGE1YjY2NTItNDhiYy00ZDJhLTlhMjItMGI3YmMyNjgyYzkwIiwiZXhwIjoiMTczNzgxOTI2MyJ9.CgoKBHNuaWQSAjY0EgsI1I-t0-zV3j0QBRoMNDAuMTI2LjI2LjI0Kix1NW5RVkZONlRVU1ZsZ2d0N0plRjZlS3J2V3FqOUhhOVA0ck1vRDc0RG1BPTCDATgBQhChewD3wmAAQJfwBJMoKq8ZShBoYXNoZWRwcm9vZnRva2VuUghbImttc2kiXXIpMGguZnxtZW1iZXJzaGlwfDEwMDMyMDAyNGIzY2QxY2JAbGl2ZS5jb216ATKCARIJUmZb2rxIKk0RmiILe8JoLJCiAR1oazFAaHVhbmcyNzI4Lm9ubWljcm9zb2Z0LmNvbaoBEDEwMDMyMDAyNEIzQ0QxQ0KyAQ5hbGxmaWxlcy53cml0ZcgBAQ.ktfCDEss7sY1BzyaHtoW5akgyWtKg0px1VYO_aGr-sI&ApiVersion=2.0
+  ROM_NAME: Generic
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
